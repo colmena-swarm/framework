@@ -1,0 +1,12 @@
+[submodule "agent"]
+	path = agent
+	url = https://github.com/colmena-swarm/agent.git
+	branch = ca180f8
+[submodule "programming-model"]
+	path = service-tools/programming-model
+	url = https://github.com/colmena-swarm/programming-model.git
+	branch = 41e5d79b9824980321adb936dfef4813cfabd9aa
+[submodule "deployment_tool"]
+	path = service-tools/deployment-tool
+	url = https://github.com/colmena-swarm/deployment-tool.git
+	branch = 93a8509aa790c84a2be55f78fdfcb617813d591f
